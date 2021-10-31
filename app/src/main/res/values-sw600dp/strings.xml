@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address">住所</string>
+    <string name="hp">HP</string>
+    <string name="call">電話</string>
+    <string name="parking">駐車場</string>
+    <string name="barrier">バリアフリー</string>
+    <string name="details">詳細</string>
+    <string name="name">名</string>
+    <string name="group">グループ</string>
+    <string name="_0_m">0 m</string>
+</resources>

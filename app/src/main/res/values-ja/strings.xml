@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">大阪市</string>
+    <string name="settings">設定</string>
+    <string name="gohome">戻る</string>
+    <string name="card_setting_title">カテゴリ</string>
+    <string name="all">すべて</string>
+    <string name="public_office">官公庁</string>
+    <string name="school_and_nursery">学校・保育所</string>
+    <string name="park_and_sports">公園・スポーツ</string>
+    <string name="hall">ホール</string>
+    <string name="culture_and_tourist">文化・観光</string>
+    <string name="police_and_fire">警察・消防</string>
+    <string name="medical_care_and_welfare">医療・福祉</string>
+    <string name="attractions_and_historic_sites">名所・旧跡</string>
+    <string name="stations_and_bus_stop">駅・バス停</string>
+    <string name="parking_and_bycycle_parking">駐車場・駐輪場</string>
+    <string name="public_toilet">公衆トイレ</string>
+    <string name="environment_and_rcycling">環境・リサイクル</string>
+    <string name="other">その他</string>
+    <string name="housing_shelter">一時・収容避難所</string>
+    <string name="disaster_for_heliport">災害時用ヘリポート</string>
+    <string name="fire_protection_water_tank">防火水槽</string>
+    <string name="fire_disaster_prevention_speaker">防火スピーカー</string>
+    <string name="tsunami_evacuation_building">津波避難ビル</string>
+    <string name="display_setting_title">表示設定</string>
+    <string name="detail">詳細</string>
+    <string name="version_summary" />
+    <string name="summary_title">概要</string>
+
+    <string name="no_description">記述なし</string>
+
+    <string name="view">表示</string>
+    <string name="linear">リスト表示</string>
+    <string name="grid">グリッド表示</string>
+    <string name="card">カード表示</string>
+    <string name="address">住所</string>
+    <string name="hp">HP</string>
+    <string name="call">電話</string>
+    <string name="parking">駐車場</string>
+    <string name="barrier">バリアフリー</string>
+    <string name="details">詳細</string>
+    <string name="name">名</string>
+    <string name="group">グループ</string>
+    <string name="_0_m">0 m</string>
+</resources>

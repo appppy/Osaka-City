@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">OsakaCity</string>
+    <string name="settings">Settings</string>
+    <string name="gohome">Return</string>
+    <string name="card_setting_title">CATEGORY SETTING</string>
+    <string name="all">All</string>
+    <string name="public_office">Public Office</string>
+    <string name="school_and_nursery">School and Nursery</string>
+    <string name="park_and_sports">Park and Sports</string>
+    <string name="hall">Hall</string>
+    <string name="culture_and_tourist">Culture and Tourist</string>
+    <string name="police_and_fire">Police and Fire</string>
+    <string name="medical_care_and_welfare">Medical Care and Welfare</string>
+    <string name="attractions_and_historic_sites">Attractions and Historic sites</string>
+    <string name="stations_and_bus_stop">Stations and Bus Stop</string>
+    <string name="parking_and_bycycle_parking">Parking and Bycycle Parking</string>
+    <string name="public_toilet">Public Toilet</string>
+    <string name="environment_and_rcycling">Environment and Rcycling</string>
+    <string name="other">Other</string>
+    <string name="housing_shelter">Housing Shelter</string>
+    <string name="disaster_for_heliport">Disaster for Heliport</string>
+    <string name="fire_protection_water_tank">Fire Protection Water Tank</string>
+    <string name="fire_disaster_prevention_speaker">Fire Disaster Prevention Speaker</string>
+    <string name="tsunami_evacuation_building">Tsunami Evacuation Building</string>
+    <string name="display_setting_title">DISPLAY SETTING</string>
+    <string name="detail">Detail</string>
+    <string name="version_summary" />
+    <string name="summary_title">SUMMARY</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Strings for possible PreferenceActivity Back/Next buttons -->
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label">Skip</string>
+
+    <string name="no_description">No Description</string>
+
+    <string name="view">view</string>
+    <string name="linear">linear</string>
+    <string name="grid">grid</string>
+    <string name="card">card</string>
+    <string name="address">住所</string>
+    <string name="hp">HP</string>
+    <string name="call">電話</string>
+    <string name="parking">駐車場</string>
+    <string name="barrier">バリアフリー</string>
+    <string name="details">詳細</string>
+    <string name="name">名</string>
+    <string name="group">グループ</string>
+    <string name="_0_m">0 m</string>
+
+</resources>

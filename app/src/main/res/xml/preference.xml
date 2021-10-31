@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress DeprecatedClassUsageInspection -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fastScrollEnabled="true" >
+
+    <PreferenceCategory android:title="@string/card_setting_title" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_location_city_black_24dp"
+            android:key="KEY_PUBLIC_OFFICE"
+            android:title="@string/public_office"/>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_SCHOOL_AND_NURSERY"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="@string/school_and_nursery" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_PARK_AND_SPORTS"
+            android:icon="@drawable/ic_local_florist_black_24dp"
+            android:title="@string/park_and_sports" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_HALL"
+            android:icon="@drawable/ic_event_seat_black_24dp"
+            android:title="@string/hall" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_CULTURE_AND_TOURIST"
+            android:icon="@drawable/ic_camera_alt_black_24dp"
+            android:title="@string/culture_and_tourist" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_POLICE_AND_FIRE"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/police_and_fire" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_MEDICAL_CARE_AND_WELFARE"
+            android:icon="@drawable/ic_local_hospital_black_24dp"
+            android:title="@string/medical_care_and_welfare" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_ATTRACTIONS_AND_HISTORIC_SITES"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="@string/attractions_and_historic_sites" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_STATIONS_AND_BUS_STOP"
+            android:icon="@drawable/ic_train_black_24dp"
+            android:title="@string/stations_and_bus_stop" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_PARKING_AND_BYCYCLE_PARKING"
+            android:icon="@drawable/ic_local_parking_black_24dp"
+            android:title="@string/parking_and_bycycle_parking" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="KEY_PUBLIC_TOILET"
+            android:icon="@drawable/ic_wc_black_24dp"
+            android:title="@string/public_toilet" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_ENVIRONMENT_AND_RCYCLING"
+            android:icon="@drawable/ic_nature_black_24dp"
+            android:title="@string/environment_and_rcycling" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_OTHER"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="@string/other" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_HOUSING_SHELTER"
+            android:icon="@drawable/ic_directions_run_black_24dp"
+            android:title="@string/housing_shelter" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_DISASTER_FOR_HELIPORT"
+            android:icon="@drawable/ic_h_24dp"
+            android:title="@string/disaster_for_heliport" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_FIRE_PROTECTION_WATER_TANK"
+            android:icon="@drawable/ic_blur_circular_black_24dp"
+            android:title="@string/fire_protection_water_tank" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_FIRE_DISASTER_PREVENTION_SPEAKER"
+            android:icon="@drawable/ic_volume_up_black_24dp"
+            android:title="@string/fire_disaster_prevention_speaker" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="KEY_TSUNAMI_EVACUATION_BUILDING"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="@string/tsunami_evacuation_building" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/summary_title" >
+        <Preference
+            android:key="KEY_VERSION"
+            android:summary="unknown"
+            android:title="@string/app_name" >
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>
