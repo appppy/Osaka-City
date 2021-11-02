@@ -7,11 +7,11 @@ Last State: Oct 2021
 Javaで記述したAndroidアプリです。
 
 ## 内容
-以下、Gooogle Pixel 3で動作確認済みです。
+以下、Google Pixel 3で動作確認済みです。
 * 大阪市のオープンデータを取得し、画面に表示します
 * CSVデータのみ対応しています
 * Linked Open Data（LOD）には対応していません
-* 位置情報は、取得していません。
+* 位置情報は、取得していません
 
 # だれが、「Osaka City」を使うか？
 
