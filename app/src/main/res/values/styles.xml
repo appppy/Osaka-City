@@ -33,21 +33,9 @@
         <item name="colorAccent">@color/teal_500</item>
     </style>
 
-    <style name="AppTheme.Map">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
-
-    <style name="AppTheme.Street" parent="Theme.AppCompat.DayNight.DarkActionBar">
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryDark">@color/primary_dark</item>
-        <item name="colorAccent">@color/accent</item>
-    </style>
-
     <style name="AppTheme.Detail" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-        <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:colorBackgroundCacheHint">@null</item>
         <item name="android:windowIsTranslucent">true</item>
     </style>

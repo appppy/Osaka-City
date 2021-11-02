@@ -26,7 +26,6 @@
                 android:id="@+id/layout_group"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#80ffffff"
                 android:orientation="vertical">
 
                 <LinearLayout
@@ -50,9 +49,7 @@
                             android:choiceMode="singleChoice"
                             android:gravity="center_vertical"
                             android:text="@string/name"
-                            android:textColor="@color/black"
-                            android:textSize="15sp"
-                            android:textStyle="bold"/>
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
                         <androidx.appcompat.widget.AppCompatTextView
                             android:id="@+id/category"
@@ -61,8 +58,7 @@
                             android:choiceMode="singleChoice"
                             android:gravity="center_vertical"
                             android:text="@string/group"
-                            android:textSize="15sp"
-                            android:textStyle="bold"/>
+                            android:textAppearance="@style/TextAppearance.AppCompat.Title" />
 
                         <androidx.appcompat.widget.AppCompatTextView
                             android:id="@+id/subtitle"
